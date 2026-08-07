@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: DARIO G             </h3>
-<h3>Register Number: 212222230027    </h3>
+<h3>Name: Sandya S            </h3>
+<h3>Register Number: 212225040364   </h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
